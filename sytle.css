@@ -1,0 +1,194 @@
+.top{
+  background-color: #e4f9f5;
+  border: 10px;
+  padding: 20px;
+  position: relative;
+  padding-top: 100px;
+  color: #66bfbf;
+
+}
+body{
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  text-align: center;
+}
+h1{
+  margin-top:  0px;
+  padding: 5px
+
+}
+
+
+
+}
+.bottom{
+  width: 200px;
+  height: 200px;
+  background-color: yellow;
+
+}
+.top-cloud{
+  position:absolute;
+  margin-top: 30px;
+  right: 300px;
+  bottom:600px;
+
+}
+.Bottom-cloud{
+  position: absolute;
+  left:300px;
+
+}
+.name{
+  font-family: 'Sacramento', cursive;
+  font-size: 500%;
+  margin-bottom: 0;
+}
+.title{
+  font-family: 'Ramaraja', serif;
+  margin: 0 auto;
+  font-size: 200%;
+  color: #66bfbf;
+}
+.middle{
+padding-bottom: 30px;
+}
+.profile{
+  border-radius: 360px;
+  height: 200px;
+  width: 200px;
+  padding: 50px;
+  position: relative;
+
+
+}
+.hello{
+  font-family: 'Ramaraja', serif;
+  color: #66bfbf;
+  position: relative;
+  padding-top: 0px;
+  bottom: 40px;
+  font-size: 300%;
+
+}
+.info{
+  position: relative;
+  width: 480px;
+  margin: auto;
+  bottom: 90px;
+  color: #40514e;
+  margin-bottom: 0px;
+  font-size: 110%;
+}
+hr{
+     border-color: #eaf6f6;
+     border-style: none;
+     border-top: dotted;
+     height: 0px;
+     border-width: 5px;
+     width: 5%;
+     position: relative;
+     bottom:50px;
+
+}
+.skills{
+  position: relative;
+  font-size: 300%;
+}
+.coding{
+  border-radius: 350px;
+  position: relative;
+  height: 200px;
+  right:  200px;
+  display: inline-block;
+}
+.python{
+  left: 130px;
+  bottom: 130px;
+
+}
+.web{
+  display: inline-block;
+  border-radius: 360px;
+  position: relative;
+  height: 200px;
+  left:  30px;
+  display: inline-block;
+}
+.webinfo{
+  position: relative;
+
+  left:40px;
+  display: inline-block;
+}
+.webhr{
+  position: relative;
+  top:25px;
+}
+.touch{
+  font-family: 'Ramaraja', serif;
+  color: #66bfbf;
+  position: relative;
+  padding-top: 0px;
+  top: 40px;
+  font-size: 300%;
+}
+.like{
+margin: auto;
+left: 30px;
+color: #66bfbf;
+}
+.contact{
+  position: relative;
+  left: 5px;
+  display: inline-block;
+
+  width: 400px;
+}
+.me:hover{
+  background-color: #97DBAE;
+}
+.me{
+  border-radius: 180px;
+  color: white;
+  background-color:#E83A14;
+  width: 150px;
+  height: 50px;
+  font-size: 150%;
+  font-family: cursive;
+
+}
+.bottom{
+  position: relative;
+  padding: 500px auto;
+  background-color:#66bfbf;
+  padding-top: : 400px;
+  padding-bottom: 100px;
+
+}
+.linkdin{
+  text-decoration: none;
+  color: #11999e;
+  position: relative;
+  right:30px;
+  font-size: 150%;
+  top:20px;
+
+}
+.github{
+  text-decoration: none;
+  color: #11999e;
+  position: relative;
+  left:20px;
+  font-size: 150%;
+  top:20px;
+}
+.copyright{
+  position: relative;
+  color: white;
+  font-size: 100%;
+  top:40px;
+
+}
